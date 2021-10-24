@@ -7,3 +7,4 @@ Dzieci z głodu nie mogły zasnąć i słyszały, co macocha powiedziała do ojc
 Dzieci bawiły się w piaskownicy
 Małgosia powiedziała Jasiowi, że sam ma być cicho i że jest głupi.
 Nie wiedziały co nadchodzi
+> Historia kończy się szczęśliwie. Wszystko jest GIT :)
